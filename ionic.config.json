@@ -1,0 +1,7 @@
+{
+  "name": "findcars",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
